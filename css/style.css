@@ -1,0 +1,32 @@
+body {
+  background-color:#FFBF00;
+  overflow: hidden;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  position:absolute;
+  width:800px;
+  height:400px;
+}
+
+svg{
+  width:800px;
+  height:400px;
+  visibility:hidden;
+  overflow:visible;
+ 
+}
+
+text{
+  fill:#ededed;
+  font-size:23px;
+  text-anchor:middle;
+  font-family:Arial, sans-serif;
+}
