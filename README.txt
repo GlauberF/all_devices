@@ -1,2 +1,2 @@
-#animação cliente (dispositivos).
+# Animação cliente (dispositivos).
 By Glauber Funez
